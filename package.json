@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Kavitha",
-  "license": "ISC",
+  "author": "Sourav",
+  "license": "NA",
   "dependencies": {
     "express": "^4.17.1"
   }
